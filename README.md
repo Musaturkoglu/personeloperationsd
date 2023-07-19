@@ -1,2 +1,0 @@
-# personeloperations
- Sağlık Müdürlüğü
